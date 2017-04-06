@@ -6,3 +6,4 @@ Dokumentation des Freifunk Tag 17 in Hennef
 - Richtfunk per WLAN mit WiBack von Michael (Hochschule Bonn-Rhein-Sieg)
 - TTN Node Workshop von Frank (TTN Eindhoven)
 - TTN und LoRaWAN Grundlagen von Laurens (TTN Amsterdam)
+- VIM für Anfänger und Fortgeschrittene von Michael (TTN Hennef)
