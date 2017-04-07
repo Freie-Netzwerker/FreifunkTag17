@@ -7,3 +7,4 @@ Dokumentation des Freifunk Tag 17 in Hennef
 - TTN Node Workshop von Frank (TTN Eindhoven)
 - TTN und LoRaWAN Grundlagen von Laurens (TTN Amsterdam)
 - VIM für Anfänger und Fortgeschrittene von Michael (TTN Hennef)
+- Freifunk Hochstift Infrastruktur - Service-Provider-Techniken und Automatisierung für Freifunk nutzen (Freifunk Hochstift / @BarbarossaTM)
